@@ -2,6 +2,6 @@
   "id": "0001",
   "type": ["donut", "cheese-cake"],
   "name": "Cake",
-  "ppu": 0.55,
+  "ppu": 0.57,
   "batters": { "id": "1001", "type": "Regular" }
 }
