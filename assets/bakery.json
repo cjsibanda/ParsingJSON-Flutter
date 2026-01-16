@@ -1,6 +1,6 @@
 {
   "id": "0001",
-  "type": ["muffin", "cheese-cake"],
+  "type": ["chocolate-muffin", "cheese-cake"],
   "name": "Cake",
   "ppu": 0.57,
   "batters": { "id": "1001", "type": "Regular" }
