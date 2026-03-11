@@ -3,7 +3,7 @@
   "total": 12,
   "total_pages": 5,
   "author":{
-    "first_name": "Jackson",
+    "first_name": "Natasha",
     "last_name":"Reddy"
   },
   "data": [
@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "first_name": "Janet",
+      "first_name": "Cathy",
       "last_name": "Weaver",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
       "images": [
@@ -42,8 +42,8 @@
     },
     {
       "id": 3,
-      "first_name": "Emma",
-      "last_name": "Wong",
+      "first_name": "Xholiso",
+      "last_name": "Tshabalala",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
       "images": [
         {
