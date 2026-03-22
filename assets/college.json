@@ -1,9 +1,9 @@
 {
   "name": "CJ",
-  "majors":["CS", "Maths"],
+  "majors":["CS", "Nursing"],
   "subjects": [
     {
-    "subjectName": "math",
+    "subjectName": "Nursing",
     "teacher":"Ms Jackson"
     },
     {
