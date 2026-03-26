@@ -3,11 +3,11 @@
   "majors":["CS", "Nursing"],
   "subjects": [
     {
-    "subjectName": "Nursing",
+    "subjectName": "Infusions",
     "teacher":"Ms Jackson"
     },
     {
-      "subjectName": "science",
+      "subjectName": "Object Oriented Programming",
       "teacher":"Ms Carter"
     }
     ]
