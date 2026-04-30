@@ -3,5 +3,5 @@
   "type": ["strawberry-muffin", "chocolate-cake"],
   "name": "Cake",
   "ppu": 0.57,
-  "batters": { "id": "1001", "type": "Regular" }
+  "batters": { "id": "1002", "type": "Regular" }
 }
